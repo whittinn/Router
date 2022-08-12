@@ -16,6 +16,7 @@
 		8CDCAABE28A5FDAC00741748 /* RouterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CDCAABD28A5FDAC00741748 /* RouterTests.swift */; };
 		8CDCAAC828A5FDAC00741748 /* RouterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CDCAAC728A5FDAC00741748 /* RouterUITests.swift */; };
 		8CDCAACA28A5FDAC00741748 /* RouterUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CDCAAC928A5FDAC00741748 /* RouterUITestsLaunchTests.swift */; };
+		8CDCAAD728A5FF2800741748 /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CDCAAD628A5FF2800741748 /* Alert.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8CDCAAC328A5FDAC00741748 /* RouterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RouterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CDCAAC728A5FDAC00741748 /* RouterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RouterUITests.swift; sourceTree = "<group>"; };
 		8CDCAAC928A5FDAC00741748 /* RouterUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RouterUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8CDCAAD628A5FF2800741748 /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				8CDCAAA628A5FDA900741748 /* AppDelegate.swift */,
 				8CDCAAA828A5FDA900741748 /* SceneDelegate.swift */,
 				8CDCAAAA28A5FDA900741748 /* ViewController.swift */,
+				8CDCAAD628A5FF2800741748 /* Alert.swift */,
 				8CDCAAAC28A5FDA900741748 /* Main.storyboard */,
 				8CDCAAAF28A5FDAC00741748 /* Assets.xcassets */,
 				8CDCAAB128A5FDAC00741748 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				8CDCAAAB28A5FDA900741748 /* ViewController.swift in Sources */,
 				8CDCAAA728A5FDA900741748 /* AppDelegate.swift in Sources */,
+				8CDCAAD728A5FF2800741748 /* Alert.swift in Sources */,
 				8CDCAAA928A5FDA900741748 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
